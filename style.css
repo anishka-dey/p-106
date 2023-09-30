@@ -1,0 +1,38 @@
+body{
+    background-color: rgba(226,232,221,255);
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+}
+.header_div{
+  background-color: rgba(193, 199, 189, 0.757);
+  font-weight: bold !important;
+}
+.header_div p{
+    font-weight: 550;
+    color: rgb(93, 93, 93);
+}
+.main_div button{
+    margin-top: 20px;
+    padding: 8px;
+    letter-spacing: 3px;
+    font-size: 20px;
+    border-radius: 20px;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    background-color: rgb(251, 240, 255);
+    width: 100%;
+    text-align: center;
+    line-height: 2;
+    letter-spacing: 1px;
+    text-shadow: 10px 5px 10px rgb(0, 0, 0);
+}
+#ear{
+    width: 300px;
+    height: 300px;
+}
+
+#start{
+    font-size: 25px;
+}
